@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka monta vaarallista hiukkasta eurooppalaiset hengittävät?",
+  "subtitle": "Keskimääräinen PM2,5-saaste EU:ssa on jopa 10,32 µg/kuutiometri ja nousi 2,21 % vuosina 2023–2024. Tämä luku on edelleen WHO:n suosituksen 5 µg/kuutiometri yläpuolella.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Keskiarvo on laskettu maakohtaisesti vaihtelevan määrän ilmanmittausasemien toimittamien saatavilla olevien vuosittaisten keskiarvotietojen perusteella.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan ympäristökeskus (2024)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "µg/m3"
 }
