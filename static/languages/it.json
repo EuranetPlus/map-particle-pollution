@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quante particelle pericolose respirano i cittadini europei?",
+  "subtitle": "L'inquinamento medio da PM2,5 nell'UE è pari a 10,32 µg/metro cubo ed è aumentato del 2,21% tra il 2023 e il 2024. Questa cifra è comunque superiore alle raccomandazioni dell'OMS di 5 µg/metro cubo.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il valore medio è stato calcolato sulla base dei dati medi annuali disponibili forniti da un numero variabile di stazioni di misurazione dell'aria specifiche per ogni paese.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Agenzia europea dell'ambiente (2024)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "µg/m3"
 }
