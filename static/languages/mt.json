@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm jieħdu n-nifs partiċelli perikolużi ċ-ċittadini Ewropej?",
+  "subtitle": "It-tniġġis medju tal-PM2.5 fl-UE huwa għoli daqs 10.32 µg/metru kubu u żdied mill-2023 sal-2024 b'2.21%. Din iċ-ċifra għadha ogħla mir-rakkomandazzjonijiet tad-WHO ta' 5 µg/metru kubu.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-valur medju ġie kkalkulat abbażi tad-dejta medja annwali disponibbli pprovduta minn numru varjabbli ta' stazzjonijiet tal-kejl tal-arja speċifiċi għall-pajjiż.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Aġenzija Ewropea għall-Ambjent (2024)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "customUnitLabel": "µg/m3"
 }
