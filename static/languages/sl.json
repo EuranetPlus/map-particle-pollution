@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko nevarnih delcev vdihavajo evropski državljani?",
+  "subtitle": "Povprečna onesnaženost s PM2,5 v EU znaša kar 10,32 µg/kubični meter in se je od leta 2023 do 2024 povečala za 2,21 %. Ta številka je še vedno nad priporočili SZO, ki znašajo 5 µg/kubični meter.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Povprečna vrednost je bila izračunana na podlagi razpoložljivih letnih povprečnih podatkov, ki jih zagotavlja različno število merilnih postaj za zrak, specifičnih za posamezno državo.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Evropska agencija za okolje (2024)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "µg/m3"
 }
