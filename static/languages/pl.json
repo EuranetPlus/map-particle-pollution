@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ilu niebezpiecznym cząsteczkom wdychają obywatele Europy?",
+  "subtitle": "Średnie zanieczyszczenie pyłem PM2,5 w UE sięga 10,32 µg/metr sześcienny i wzrosło w latach 2023–2024 o 2,21%. Wartość ta nadal przekracza zalecenia WHO wynoszące 5 µg/metr sześcienny.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Wartość średnią obliczono na podstawie dostępnych danych rocznych, zebranych przez różną liczbę stacji pomiarowych jakości powietrza w poszczególnych krajach.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Europejska Agencja Środowiska (2024)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "µg/m3"
 }
