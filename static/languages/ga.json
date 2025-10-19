@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad cáithnín contúirteach a análann saoránaigh Eorpacha?",
+  "subtitle": "Tá an meán-thruailliú PM2.5 san AE chomh hard le 10.32 µg/méadar ciúbach agus mhéadaigh sé 2.21% ó 2023 go 2024. Tá an figiúr seo fós os cionn mholtaí an WHO de 5 µg/méadar ciúbach.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tá an meánluach ríofa bunaithe ar na sonraí meánacha bliantúla atá ar fáil ó líon éagsúil stáisiún tomhais aeir de réir tíre.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Gníomhaireacht Chomhshaoil Eorpach (2024)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "µg/m3"
 }
