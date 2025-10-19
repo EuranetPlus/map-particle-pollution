@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele gefährliche Partikel atmen die europäischen Bürger ein?",
+  "subtitle": "Die durchschnittliche PM2,5-Belastung in der EU beträgt bis zu 10,32 µg/Kubikmeter und stieg von 2023 bis 2024 um 2,21 %. Dieser Wert liegt immer noch über den WHO-Empfehlungen von 5 µg/Kubikmeter.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Der Durchschnittswert wurde auf Basis der verfügbaren Jahresmittelwerte einer länderspezifisch unterschiedlichen Anzahl von Luftmessstationen berechnet.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Europäische Umweltagentur (2024)",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "µg/m3"
 }
