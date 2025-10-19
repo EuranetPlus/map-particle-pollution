@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko opasnih čestica udišu europski građani?",
+  "subtitle": "Prosječno onečišćenje PM2,5 česticama u EU iznosi čak 10,32 µg/kubni metar i povećalo se od 2023. do 2024. za 2,21%. Ta je brojka i dalje iznad preporuka WHO-a od 5 µg/kubni metar.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Prosječna vrijednost izračunata je na temelju dostupnih godišnjih prosječnih podataka koje je pružio različit broj mjernih postaja za zrak specifičan za određenu zemlju.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Europska agencija za okoliš (2024.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "µg/m3"
 }
