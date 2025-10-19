@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel gevaarlijke deeltjes ademen Europese burgers in?",
+  "subtitle": "De gemiddelde PM2.5-vervuiling in de EU bedraagt maar liefst 10,32 µg/kubieke meter en is tussen 2023 en 2024 met 2,21% gestegen. Dit cijfer ligt nog steeds boven de WHO-aanbeveling van 5 µg/kubieke meter.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De gemiddelde waarde is berekend op basis van de beschikbare jaarlijkse gemiddelde gegevens, afkomstig van een landspecifiek, wisselend aantal luchtmeetstations.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees Milieuagentschap (2024)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "µg/m3"
 }
