@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien de particules dangereuses les citoyens européens respirent-ils ?",
+  "subtitle": "La pollution moyenne aux PM2,5 dans l'UE atteint 10,32 µg/m³ et a augmenté de 2,21 % entre 2023 et 2024. Ce chiffre reste supérieur aux recommandations de l'OMS, fixées à 5 µg/m³.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "La valeur moyenne a été calculée sur la base des données moyennes annuelles disponibles fournies par un nombre variable de stations de mesure de l'air propres à chaque pays.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Agence européenne pour l'environnement (2024)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "µg/m3"
 }
