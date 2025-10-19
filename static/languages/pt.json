@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Quantas partículas perigosas os cidadãos europeus respiram?",
+  "subtitle": "A poluição média por PM2,5 na UE chega a 10,32 µg/metro cúbico e aumentou 2,21% entre 2023 e 2024. Esse valor ainda está acima da recomendação da OMS de 5 µg/metro cúbico.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "O valor médio foi calculado com base nos dados médios anuais disponíveis, fornecidos por um número variável de estações de medição de ar específicas de cada país.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Agência Europeia do Ambiente (2024)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "legend1": "Nenhum dado disponível",
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "µg/m3"
 }
