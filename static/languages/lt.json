@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek pavojingų dalelių įkvepia Europos piliečiai?",
+  "subtitle": "Vidutinė PM2,5 tarša ES siekia net 10,32 µg/kubiniame metre ir nuo 2023 iki 2024 m. padidėjo 2,21 %. Šis skaičius vis dar viršija PSO rekomenduojamą 5 µg/kubiniame metre ribą.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Vidutinė vertė apskaičiuota remiantis turimais metiniais vidutiniais duomenimis, kuriuos pateikė skirtingas skaičius konkrečioje šalyje esančių oro matavimo stočių.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Europos aplinkos agentūra (2024 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "µg/m3"
 }
