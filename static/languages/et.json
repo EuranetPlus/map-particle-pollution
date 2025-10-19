@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju ohtlikke osakesi Euroopa kodanikud sisse hingavad?",
+  "subtitle": "Keskmine PM2,5 reostus ELis on koguni 10,32 µg/kuupmeeter ja see suurenes aastatel 2023–2024 2,21%. See näitaja on endiselt kõrgem WHO soovitusest 5 µg/kuupmeeter.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Keskmine väärtus on arvutatud riigiti erinevate õhumõõtejaamade esitatud kättesaadavate aastaste keskmiste andmete põhjal.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopa Keskkonnaagentuur (2024)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "µg/m3"
 }
