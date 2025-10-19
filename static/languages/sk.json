@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko nebezpečných častíc dýchajú európski občania?",
+  "subtitle": "Priemerné znečistenie PM2,5 v EÚ dosahuje až 10,32 µg/kubický meter a od roku 2023 do roku 2024 sa zvýšilo o 2,21 %. Toto číslo je stále nad odporúčaniami WHO 5 µg/kubický meter.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Priemerná hodnota bola vypočítaná na základe dostupných ročných priemerných údajov poskytnutých rôznym počtom meracích staníc ovzdušia v jednotlivých krajinách.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Európska environmentálna agentúra (2024)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "µg/m3"
 }
